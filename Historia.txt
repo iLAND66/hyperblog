@@ -5,3 +5,5 @@ tengo 25 y estoy aprendiendo a utilizar git & github,
 poque es necesario en la carrera de programacion
 
 es muy timido pero se esta esforzando en no serlo, o al menos eso cree
+
+Su sueno es aprender IA y migrag para tener una mejor vida
