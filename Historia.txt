@@ -1,3 +1,5 @@
 Hola soy Luis y esta es mi historia
 
-tengo 24 y estoy aprendiendo a utilizar git & github
+tengo 25 y estoy aprendiendo a utilizar git & github,
+
+poque es necesario en la carrera de programacion
